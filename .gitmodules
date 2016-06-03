@@ -1,0 +1,3 @@
+[submodule "ZeroTierOne"]
+	path = ZeroTierOne
+	url = git@github.com:zerotier/ZeroTierOne.git
